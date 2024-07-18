@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558791117368",
+    "project_id": "nunkkam-cedfd",
+    "storage_bucket": "nunkkam-cedfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558791117368:android:d4e5119d4e3826f7ec34cd",
+        "android_client_info": {
+          "package_name": "com.its.nunkkam.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq4Yo38IBIFuIjV6vaxIUpyYmI_UZeH_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
